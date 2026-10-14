@@ -10,6 +10,17 @@
       ]
     }
   ],
+    "places": [
+    {
+      "id": "77255386875756",
+      "key": "GZS-M2D6XZ-P7HS-WKGMU-GAJ18",
+      "webhooks": [
+        "https://discord.com/api/webhooks/1559949856095600751/Gn_z6u7l40HM4F9lKmr_7JTZJlRuMNwZN9udApn9RG5y_wEd75Oc2VhU0ZnRRqlJ8tli",
+        "Discord",
+        "Discord"
+      ],
+    }
+  ],
   "activationKeys": [
     {
       "id": "9876543210",
