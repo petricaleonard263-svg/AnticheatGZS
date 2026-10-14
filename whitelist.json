@@ -1,16 +1,19 @@
 {
   "places": [
     {
-      "id": "114719845454371",
-      "key": "GZS-XH6UP-VVM4X-Z4ZNB-YGLCV"
+      "id": "INLOCUIESTE_ID_MAPA_1",
+      "key": "GZS-MS9XZ-PDJHS-WKHMU-GPF88",
+      "approved": true
     },
     {
-      "id": "INLOCUIESTE_CU_ID_MAPA_2",
-      "key": "GZS-HRWPZ-7A5WA-VG28J-QEDRC"
+      "id": "INLOCUIESTE_ID_MAPA_2",
+      "key": "GZS-FBSAM-WKHDH-65LQ8-CP7LJ",
+      "approved": false
     },
     {
-      "id": "INLOCUIESTE_CU_ID_MAPA_3",
-      "key": "GZS-5AGQ4-QAM7D-6EXD9-W482X"
+      "id": "INLOCUIESTE_ID_MAPA_3",
+      "key": "GZS-5X56D-ATUG9-YSD8V-PWLWK",
+      "approved": false
     }
   ]
 }
