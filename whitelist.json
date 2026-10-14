@@ -1,9 +1,16 @@
 {
   "places": [
-    { "id": "114719845454371", "key": "GZS-MS9XZ-PDJHS-WKHMU-GPF88" }
+    {
+      "id": "114719845454371",
+      "key": "GZS-MS9XZ-PDJHS-WKHMU-GPF88",
+      "webhook": "https://discord.com/api/webhooks/1559848624358424576/DZB7HsMTxzf6A3W8GXWd6nGkLHLJN33TnRxGBNJ-NwXyeJnfEi3xwndLrfn935sxF5uA"
+    }
   ],
   "activationKeys": [
-    { "id": "9876543210", "key": "GZS-FBSAM-WKHDH-65LQ8-CP7LJ" },
-    { "id": "5555555555", "key": "GZS-5X56D-ATUG9-YSD8V-PWLWK" }
+    {
+      "id": "9876543210",
+      "key": "GZS-FBSAM-WKHDH-65LQ8-CP7LJ",
+      "webhook": "https://discord.com/api/webhooks/ID/TOKEN"
+    }
   ]
 }
