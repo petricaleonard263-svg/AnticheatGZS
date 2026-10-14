@@ -5,8 +5,19 @@
       "key": "GZS-MS9XZ-PDJHS-WKHMU-GPF88",
       "webhooks": [
         "https://discord.com/api/webhooks/1559848624358424576/DZB7HsMTxzf6A3W8GXWd6nGkLHLJN33TnRxGBNJ-NwXyeJnfEi3xwndLrfn935sxF5uA",
-        "https://discord.com/api/webhooks/ID2/TOKEN2",
-        "https://discord.com/api/webhooks/ID3/TOKEN3"
+        "Discord",
+        "Discord"
+      ]
+    }
+  ],
+    "places": [
+    {
+      "id": "77255386875756",
+      "key": "GZS-GS4XZ-PD1HS-WKHMU-G2F88",
+      "webhooks": [
+        "https://discord.com/api/webhooks/1559949856095600751/Gn_z6u7l40HM4F9lKmr_7JTZJlRuMNwZN9udApn9RG5y_wEd75Oc2VhU0ZnRRqlJ8tli",
+        "Discord",
+        "Discord"
       ]
     }
   ],
