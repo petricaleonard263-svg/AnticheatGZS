@@ -4,35 +4,19 @@
       "id": "114719845454371",
       "key": "GZS-MS9XZ-PDJHS-WKHMU-GPF88",
       "webhooks": [
-        "https://discord.com/api/webhooks/1559825186608517130/76EkQDyDVbyBiayzo8IrzW2yndBN7gzGPJCukdzbW1vVf8qTXi7uLaEcWttlBDuO0eP4",
-        "Discord",
-        "Discord"
-      ]
-    },
-    {
-      "id": "77255386875756",
-      "key": "GZS-M2D6XZ-P7HS-WKGMU-GAJ18",
-      "webhooks": [
-        "https://discord.com/api/webhooks/1559949856095600751/Gn_z6u7l40HM4F9lKmr_7JTZJlRuMNwZN9udApn9RG5y_wEd75Oc2VhU0ZnRRqlJ8tli",
-        "Discord",
-        "Discord"
-      ]
-    },
-    {
-      "id": "114719845454371",
-      "key": "GZS-1A14-P72S-WFGMU-HAJ18",
-      "webhooks": [
-        "https://discord.com/api/webhooks/1562902581389565985/nQQfQrHLgilC2M3KN3vwOqcvz-ONjgh8UBgfZUYMMJ30Vyt6gDJH_XdbB22d8-dQAKJz",
-        "Discord",
-        "Discord"
-      ]
+        "https://discord.com/api/webhooks/1563124645186773193/Y3N9hGAcEQ96i82DZfuAI2Mi-1BsMKfjCcca5vH-7mY2zWgm64CSGIHIwjSiwpGttkr7"
+      ],
+      "CRASH": false,
+      "Kick": true
     }
   ],
   "activationKeys": [
     {
       "id": "9876543210",
-      "key": "GZS-FBSAM-WKHDH-65LQ8-CP7LJ",
-      "webhook": "https://discord.com/api/webhooks/ID/TOKEN"
+      "key": "GZS-EXEMPLU-CHEIE-12345",
+      "webhook": "https://discord.com/api/webhooks/ID/TOKEN",
+      "CRASH": false,
+      "Kick": true
     }
   ]
 }
