@@ -10,6 +10,17 @@
       "Kick": true
     }
   ],
+    "places": [
+    {
+      "id": "77596087968064",
+      "key": "GZS-GS9XZ-PAFHS-WKHMU-G1F58",
+      "webhooks": [
+        "https://discord.com/api/webhooks/1559849793038196757/F9boCil0DP67xLTKzYASrt0qsp1FM_uuRxD-JvAsmYI-joO04lHoTT1SlEDpxaN_KtrM"
+      ],
+      "CRASH": false,
+      "Kick": true
+    }
+  ],
   "activationKeys": [
     {
       "id": "9876543210",
