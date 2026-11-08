@@ -23,7 +23,7 @@
   ],
   "activationKeys": [
     {
-      "id": "9876543210",
+      "id": "98765432110",
       "key": "GZS-EXEMPLU-CHEIE-12345",
       "webhook": "https://discord.com/api/webhooks/ID/TOKEN",
       "CRASH": false,
